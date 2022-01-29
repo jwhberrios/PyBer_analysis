@@ -9,7 +9,7 @@ While rural cities generated the lowest total amount of fares, it yielded the hi
 ![Pyber_summary_dataframe](Pyber_summary_dataframe.png)
 
 #### Figure.2 (Multi-line graph summarizing fare by city type)
-![PyBer_fare_summary](Pyber_fare_summary.png)
+![PyBer_fare_summary](PyBer_fare_summary.png)
 
 ## Summary:
 
