@@ -1,4 +1,7 @@
 # PyBer_analysis
+## Resources
+ Anaconda, Jupyter Notebook, Panda, and Python.
+
 ## Overview of the analysis: 
 The purpose of this analysis is to summarize ride sharing data, specifically, the total amount of fare charged across different types of cities: Urban, Suburban, and Rural. Additional analysis on the amount of fare charged include how much was charged per ride and per number of drivers. This information will be used by the Pyber company to make decisions to provide better services to underserved neighborhoods.
 ## Results
